@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "MLB Showdown",
+    subtitle: "React Frontend with Ruby on Rails API Backend",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed a Rails API backend with endpoints for batter and player baseball cards. React frontend with Redux that uses async actions to send and receive data from the Rails API server. Used React Router and proper RESTful routing",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Mottola64/mlb-showdown-frontend",
   },
   {
     title: "React Tracks",
@@ -53,7 +53,6 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
   "Node",
   "GraphQL",
   "Material UI",
