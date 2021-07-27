@@ -54,9 +54,9 @@ export const skills = [
   "JavaScript",
   "React",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "CSS",
   "Ruby on Rails",
   "SQL",
-  "Redux"
+  "Redux",
+  "SEO"
 ];
