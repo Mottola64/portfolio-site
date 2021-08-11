@@ -9,12 +9,12 @@ import Testimonials from './Components/Testimonials';
 export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
-      {/* <Navbar /> */}
+      <Navbar />
       <About />
       <Projects />
       <Skills />
-      {/* <Testimonials />
-      <Contact /> */}
+      {/* <Testimonials /> */}
+      <Contact />
     </main>
   )
 }
